@@ -16,9 +16,9 @@
 - ⚡ Fun fact **Don't think to lead me!!**
 
   
-<div style="display:flex;">
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshikhasharma&show_icons=true&locale=en" alt="Vanshika"/></p>
-<p align="right"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshikhasharma&show_icons=true&locale=en&layout=compact" alt="Vanshika"/></p>
+<div style="display: flex; justify-content: space-between; align-items: top; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=vanshikhasharma&show_icons=true&locale=en" alt="Vanshika" style="max-width: 100%; height: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshikhasharma&show_icons=true&locale=en&layout=compact" alt="Vanshika" style="max-width: 100%; height: auto;" />
 </div>
 
 <!---
