@@ -3,9 +3,6 @@
 <p align="center"> <img src="https://github.com/user-attachments/assets/c6917385-d8d1-4b91-9e92-00568f0b54e7" alt="Vanshika Sharma Github" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshikhasharma&label=Profile%20views&color=0e75b6&style=flat" alt="Vanshika" /> </p>
 
-
-<div style="display: flex; justify-content: space-between; align-items: top; flex-wrap: wrap;">
-  <div>
 - 🔭 I’m currently working on researching and developing Modern web technology.
 
 - 🌱 I’m currently learning **everything 🤣**
@@ -17,13 +14,13 @@
 - 📫 How to reach me **vanshikasharma9456@gmail.com**
 
 - ⚡ Fun fact **Don't think to lead me!!**
-  </div
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshikhasharma&show_icons=true&locale=en&layout=compact" alt="Vanshika" style="max-width: 100%; height: auto;" />
-</div>
-  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshikhasharma&show_icons=true&locale=en&layout=compact" alt="Vanshika" style="max-width: 100%; height: auto;" />
+
 <div style="display: flex; justify-content: space-between; align-items: top; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=vanshikhasharma&show_icons=true&locale=en" alt="Vanshika" style="max-width: 100%; height: auto;" />
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshikhasharma&" alt="Vanshika" />
+
 </div>
 
 <!---
