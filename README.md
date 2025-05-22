@@ -17,10 +17,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshikhasharma&show_icons=true&locale=en&layout=compact" alt="Vanshika" style="max-width: 100%; height: auto;" />
 
-<div style="display: flex; justify-content: space-between; align-items: top; flex-wrap: wrap;">
+<div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=vanshikhasharma&show_icons=true&locale=en" alt="Vanshika" style="max-width: 100%; height: auto;" />
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshikhasharma&" alt="Vanshika" />
-
 </div>
 
 <!---
