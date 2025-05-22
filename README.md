@@ -1,7 +1,10 @@
+<h1 align="center">Hi 👋, I'm Vanshika Sharma</h1>
+<h3 align="center">ꜰʀᴏɴᴛᴇɴᴅ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴇʀ | ʀᴇᴀᴄᴛ.ᴊꜱ | ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ | ᴜɪ/ᴜx ᴅᴇꜱɪɢɴᴇʀ | ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ᴀʙᴏᴜᴛ ʙᴜɪʟᴅɪɴɢ ɪɴᴛᴜɪᴛɪᴠᴇ & ꜱᴄᴀʟᴀʙʟᴇ ᴡᴇʙ ᴇxᴘᴇʀɪᴇɴᴄᴇꜱ</h3>
+<p align="center"> ![Vanshika Sharma Banner](https://github.com/user-attachments/assets/c6917385-d8d1-4b91-9e92-00568f0b54e7)</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kritriv&label=Profile%20views&color=0e75b6&style=flat" alt="kritriv" /> </p>
 
-![Blue Geometric Illustration Graphic Designer LinkedIn Banner](https://github.com/user-attachments/assets/c6917385-d8d1-4b91-9e92-00568f0b54e7)
 
-- 👋 Hi, I’m Vanshika Sharma
+- 👋 Hi, I’m
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
